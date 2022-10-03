@@ -160,7 +160,6 @@ a{
 .icon{
     width: 40px;
     height:40px;
-
 }
 
 .icon--primary{
@@ -573,7 +572,7 @@ a{
 
 .collapsible__chevron {
     transform: rotate(-90deg);
-    transition: transform 0.3s ;
+    transition: transform 0.3s;
 }
 
 .collapsible__content {
